@@ -44,17 +44,3 @@ DISCORD_TOKEN=your_token_here
 3. Run:
 go mod tidy
 go run .
-
-## 📁 Project Structure
-
-economy-go/
-├── main.go
-├── config/
-│   └── config.go
-├── database/
-│   └── db.go
-├── handlers/
-│   └── commands.go
-├── .env
-├── .gitignore
-└── README.md
